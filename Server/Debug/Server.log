@@ -1,0 +1,10 @@
+﻿  BadLogin.cpp
+  BadPassword.cpp
+  Chat.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Server\Chat.h(14,10): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  Chat_start_SERVER.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Server\Chat.h(14,10): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  Main_SERVER.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Server\Chat.h(14,10): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  User.cpp
+  Создание кода...

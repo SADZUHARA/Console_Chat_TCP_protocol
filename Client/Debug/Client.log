@@ -1,0 +1,12 @@
+﻿  BadLogin.cpp
+  BadPassword.cpp
+  Chat.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Client\Chat.h(13,10): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  Chat_start_CLIENT.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Client\Chat.h(13,10): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  Main_CLIENT.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Client\Chat.h(13,10): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  Message.cpp
+D:\Program Files\C++\СProject\ConsoleChatTCP\Client\Message.cpp(22,52): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  User.cpp
+  Создание кода...
